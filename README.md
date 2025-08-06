@@ -6,7 +6,7 @@ Welcome! This repository showcases my professional experience, skills, and selec
 
 ## 👨‍💼 About Me
 
-I'm a passionate **Cloud Developer** with over **5 years of experience** in designing, developing, and deploying cloud applications. I’ve worked on enterprise-scale systems during my time at **TCS (client: Microsoft)** and gained research exposure during my internship at **RCI, DRDO**. I focus on scalable architecture, automation, security, and performance optimization in the cloud.
+I'm a passionate **Cloud Developer** Experience in designing, developing, and deploying cloud applications. I’ve worked on enterprise-scale systems during my time at **TCS (client: Microsoft)** and gained research exposure during my internship at **RCI, DRDO**. I focus on scalable architecture, automation, security, and performance optimization in the cloud.
 
 ---
 
@@ -24,6 +24,7 @@ I'm a passionate **Cloud Developer** with over **5 years of experience** in desi
 | **Monitoring**       | Azure Monitor, Application Insights, Grafana, Prometheus |
 | **API Design**       | RESTful APIs, GraphQL |
 | **Security**         | Azure Active Directory, OAuth2, Identity Management |
+| **Microsoft Power Platform** | Power Automate, PowerApps, Dataverse           |
 
 ---
 
@@ -60,6 +61,13 @@ I'm a passionate **Cloud Developer** with over **5 years of experience** in desi
 - Built a lightweight Azure Functions framework to **schedule and run jobs daily/weekly/monthly**
 - Used metadata configs for job frequency and targets
 - Included summary reporting and failure alerting via email
+
+### 🏭 Contoso Machine Ordering App (PowerApps)
+- Developed a **custom business application** using **Microsoft PowerApps** to streamline machine ordering processes.
+- Integrated with **Dataverse** for secure, scalable data management and seamless data flow.
+- Automated order approvals and notifications using **Power Automate** workflows.
+- Enhanced user experience with intuitive UI and role-based access controls.
+- Enabled real-time tracking and reporting to improve operational efficiency.
 
 ## 📫 Contact
 
